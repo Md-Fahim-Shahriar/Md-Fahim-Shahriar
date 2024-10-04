@@ -3,15 +3,15 @@
 <h3 align="center">Final Year Undergrad CSE student | Independent University, Bangladesh | Senior Project Student Under CCDS</h3>
 <img align="right" alt="Coding" width="480" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-- 🔭 I am currently working on [My Final Project Under Center for Computational and Data Sciences(CCDS)](https://ccds.ai/)
+- 🔭 I am currently working on [my Senior Project under CCDS](https://ccds.ai/)
 
 - 🌱 I’m currently learning **Neural Network**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Md-Fahim-Shahriar](https://github.com/Md-Fahim-Shahriar)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/Md-Fahim-Shahriar)
 
 - 📫 How to reach me **fahim0166shahriar@gmal.com**
 
-- ⚡ Fun fact **Love to play games, read books, watch movies and TV shows**
+- ⚡ Fun fact: **Love to be busy with games, books, anime, series, movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
