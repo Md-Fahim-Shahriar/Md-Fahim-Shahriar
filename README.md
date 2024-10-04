@@ -1,9 +1,9 @@
 ![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
 <h1 align="center">Hi 👋, I'm Md Fahim Shahriar</h1>
 <h3 align="center">Final Year Undergrad CSE student | Independent University, Bangladesh | Senior Project Student Under CCDS</h3>
-<img align="right" alt="Coding" width="480" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-- 🔭 I am currently working on [my Senior Project under CCDS](https://ccds.ai/)
+- 🔭 I am currently working on my Senior Project under [CCDS](https://ccds.ai/)
 
 - 🌱 I’m currently learning **Neural Network**
 
