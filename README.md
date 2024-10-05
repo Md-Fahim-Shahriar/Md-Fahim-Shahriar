@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fahim0166shahriar@gmail.com**
 
-- ⚡ Fun fact: **Love to be busy with games, books, anime, series, movies**
+- ⚡ Fun fact: **Love to be busy with games, books, animes, series, movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
