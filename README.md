@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/Md-Fahim-Shahriar)
 
-- 📫 How to reach me **fahim0166shahriar@gmal.com**
+- 📫 How to reach me **fahim0166shahriar@gmail.com**
 
 - ⚡ Fun fact: **Love to be busy with games, books, anime, series, movies**
 
