@@ -1,11 +1,11 @@
 ![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
 <h1 align="center">Md Fahim Shahriar</h1>
-<h3 align="center">Final Year Undergrad CSE student | Independent University, Bangladesh | Senior Project Student Under CCDS</h3>
+<h3 align="center">Lecutrer C | Independent University, Bangladesh | Research Intern CCDS</h3>
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-- 🔭 I am currently working on my Senior Project under [CCDS](https://ccds.ai/)
+- 🔭 I am currently looking for a permamnent position
 
-- 🌱 I’m currently learning **Neural Network**
+- 🌱 Graduated with Magna Cum Laude in Bachelor’s degree
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/Md-Fahim-Shahriar)
 
