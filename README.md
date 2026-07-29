@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
 <h1 align="center">Md Fahim Shahriar</h1>
-<h3 align="center">Lecutrer C | Independent University, Bangladesh | Research Intern CCDS</h3>
+<h3 align="center">MSCSE (Data Science) student | Research Intern, AIMS Lab | United International University</h3>
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 - 🔭 I am currently looking for a permamnent position
